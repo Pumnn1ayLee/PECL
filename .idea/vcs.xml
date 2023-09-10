@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/fyne.io/fyne/v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/Albert-Zhan/httpc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/akavel/rsrc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/andybalholm/cascadia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/atotto/clipboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gabriel-vasile/mimetype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gin-contrib/sse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gin-gonic/gin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-playground/locales" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-playground/universal-translator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-playground/validator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-toast/toast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/leodido/go-urn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-isatty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/nu7hatch/gouuid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/pelletier/go-toml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/tidwall/gjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/tidwall/match" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/tidwall/pretty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/ugorji/go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/vansante/go-ffprobe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gopkg.in/yaml.v3" vcs="Git" />
+  </component>
+</project>
