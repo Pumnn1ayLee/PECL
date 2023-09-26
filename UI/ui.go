@@ -13,10 +13,12 @@ func UI_init() fyne.CanvasObject {
 
 	Button1 := widget.NewButtonWithIcon("Start", theme.ComputerIcon(), func() {
 		//启动逻辑start.go(待完成)
+		start_game()
 	})
 
 	Button2 := widget.NewButtonWithIcon("Versions", theme.MenuExpandIcon(), func() {
 		//版本任务versions.go(待完成)
+		show_version()
 	})
 
 	toolbar := widget.NewToolbar(
