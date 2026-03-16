@@ -1,23 +1,58 @@
-# PECL
-### 首次尝试大型项目，与Ennuyeux一同创作属于自己的轻量级Minecraft启动器
-First attempt at a large project, create your own lightweight Minecraft launcher with Ennuyeux!
+<p align="center">
+  <img src="./assets/pecl-logo.png" width="164" alt="PECL logo" />
+</p>
+
+<h1 align="center">PECL</h1>
+
+<p align="center">
+  <strong>Clean desktop Minecraft launcher for Windows</strong>
+</p>
+
+<p align="center">
+  首次尝试大型项目，与 Ennuyeux 一同创作属于自己的轻量级 Minecraft 启动器
+</p>
+
+<p align="center">
+  First attempt at a large project, create your own lightweight Minecraft launcher with Ennuyeux!
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pumnn1ayLee/PECL/releases">
+    <img alt="Download latest release" src="https://img.shields.io/badge/Download-Latest%20Release-2457d6?style=for-the-badge">
+  </a>
+  <img alt="Platform Windows" src="https://img.shields.io/badge/Platform-Windows-1b1f2a?style=for-the-badge">
+  <img alt="Status Active development" src="https://img.shields.io/badge/Status-Active%20development-355c7d?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="./assets/pecl-screenshot-versions.jpg" alt="PECL versions page preview" width="960" />
+</p>
 
 ---
 
 PECL is a desktop Minecraft launcher focused on a clean experience, practical workflow, and continuous refinement.
 
-This public repository is used for release distribution, changelog updates, and download access.
+This public repository is used for release distribution, changelog updates, and download access.  
 The PECL source code is not published in this repository.
 
 ## Download
 
 - Latest releases: [GitHub Releases](https://github.com/Pumnn1ayLee/PECL/releases)
 - Recommended package: download the latest `Setup.exe` or `MSI` from the Releases page
+- If Windows SmartScreen appears, verify the source and continue if you trust this release
 
 ## Current Status
 
 PECL is under active development.
-The current public builds focus on the core launcher experience and do not yet include the planned public server list feature.
+
+The current public builds focus on:
+
+- the core launcher experience
+- Minecraft version installation and management
+- Java runtime management
+- launcher workflow polish and stability
+
+The planned public server list feature is not included in the current release yet.
 
 ## Highlights
 
@@ -35,7 +70,7 @@ The current public builds focus on the core launcher experience and do not yet i
 ## Notes
 
 - This repository is intended for public distribution and project presentation
-- Release notes and installer packages will be maintained through GitHub Releases
+- Release notes and installer packages are maintained through GitHub Releases
 - Source code remains private at this stage
 
 ## Feedback
