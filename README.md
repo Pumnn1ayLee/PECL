@@ -9,19 +9,19 @@
 </p>
 
 <p align="center">
-  首次尝试大型项目，与 Ennuyeux 一同创作属于自己的轻量级 Minecraft 启动器
+  轻量、持续打磨中的 Windows 桌面 Minecraft 启动器。
 </p>
 
 <p align="center">
-  First attempt at a large project, create your own lightweight Minecraft launcher with Ennuyeux!
+  A lightweight Windows desktop Minecraft launcher under active refinement.
 </p>
 
 <p align="center">
   <a href="https://github.com/Pumnn1ayLee/PECL/releases">
     <img alt="Download latest release" src="https://img.shields.io/badge/Download-Latest%20Release-2457d6?style=for-the-badge">
   </a>
+  <img alt="Latest public release v0.2.7" src="https://img.shields.io/badge/Latest-v0.2.7-2ea043?style=for-the-badge">
   <img alt="Platform Windows" src="https://img.shields.io/badge/Platform-Windows-1b1f2a?style=for-the-badge">
-  <img alt="Status Active development" src="https://img.shields.io/badge/Status-Active%20development-355c7d?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -30,15 +30,21 @@
 
 ---
 
-PECL is a desktop Minecraft launcher focused on a clean experience, practical workflow, and continuous refinement.
+PECL is a desktop Minecraft launcher focused on a clean experience, practical workflow, and steady iteration.
 
 This public repository is used for release distribution, changelog updates, and download access.  
-The PECL source code is not published in this repository.
+The private development source code is not published in this repository.
+
+## Latest Public Release
+
+- Current public release: [`v0.2.7`](https://github.com/Pumnn1ayLee/PECL/releases/tag/v0.2.7)
+- Release notes: [docs/releases/v0.2.7.md](./docs/releases/v0.2.7.md)
+- Recommended package: `PECL_0.2.7_x64-setup.exe`
 
 ## Download
 
 - Latest releases: [GitHub Releases](https://github.com/Pumnn1ayLee/PECL/releases)
-- Recommended package: download the latest `Setup.exe` or `MSI` from the Releases page
+- Download the latest Windows installer from the Releases page
 - If Windows SmartScreen appears, verify the source and continue if you trust this release
 
 ## Current Status
@@ -47,21 +53,19 @@ PECL is under active development.
 
 The current public builds focus on:
 
-- the core launcher experience
 - Minecraft version installation and management
-- Java runtime management
-- launcher workflow polish and stability
-
-The planned public server list feature is not included in the current release yet.
+- Java runtime detection and launcher-side runtime management
+- Forge, Fabric, and OptiFine workflow support
+- Community server browsing and release-side presentation polish
+- Signed updater flow and general stability improvements
 
 ## Highlights
 
 - Clean desktop launcher experience
-- Minecraft version installation and management
 - Support for release and snapshot version workflows
-- Loader-related workflow support for Forge, Fabric, and OptiFine
 - Java runtime management inside the launcher
-- Ongoing optimization for installation flow, task feedback, and overall usability
+- Community browsing surface for published server entries
+- Continuous polish for installation flow, task feedback, and update experience
 
 ## Platform
 
@@ -71,7 +75,7 @@ The planned public server list feature is not included in the current release ye
 
 - This repository is intended for public distribution and project presentation
 - Release notes and installer packages are maintained through GitHub Releases
-- Source code remains private at this stage
+- The private development repository is not mirrored here
 
 ## Feedback
 
@@ -89,6 +93,7 @@ PECL is continuing to improve in these areas:
 - installation speed and stability
 - launcher workflow polish
 - runtime management experience
+- updater reliability and release experience
 - future server ecosystem integration
 
 Thanks for checking out PECL.
