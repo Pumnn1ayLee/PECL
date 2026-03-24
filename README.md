@@ -20,7 +20,7 @@
   <a href="https://github.com/Pumnn1ayLee/PECL/releases">
     <img alt="Download latest release" src="https://img.shields.io/badge/Download-Latest%20Release-2457d6?style=for-the-badge">
   </a>
-  <img alt="Latest public release v0.2.7" src="https://img.shields.io/badge/Latest-v0.2.7-2ea043?style=for-the-badge">
+  <img alt="Latest public release v0.2.8" src="https://img.shields.io/badge/Latest-v0.2.8-2ea043?style=for-the-badge">
   <img alt="Platform Windows" src="https://img.shields.io/badge/Platform-Windows-1b1f2a?style=for-the-badge">
 </p>
 
@@ -37,9 +37,9 @@ The private development source code is not published in this repository.
 
 ## Latest Public Release
 
-- Current public release: [`v0.2.7`](https://github.com/Pumnn1ayLee/PECL/releases/tag/v0.2.7)
-- Release notes: [docs/releases/v0.2.7.md](./docs/releases/v0.2.7.md)
-- Recommended package: `PECL_0.2.7_x64-setup.exe`
+- Current public release: [`v0.2.8`](https://github.com/Pumnn1ayLee/PECL/releases/tag/v0.2.8)
+- Release notes: [docs/releases/v0.2.8.md](./docs/releases/v0.2.8.md)
+- Recommended package: `PECL_0.2.8_x64-setup.exe`
 
 ## Download
 
