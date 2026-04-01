@@ -8,9 +8,6 @@
   <strong>一个轻量、面向Windows的非官方Minecraft启动器</strong>
 </p>
 
-<p align="center">
-  版本 · Java · Mods · 整合包 · 资源包 · 光影包 · 数据包
-</p>
 
 <p align="center">
   <a href="./README.md">
