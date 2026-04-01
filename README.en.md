@@ -5,11 +5,7 @@
 <h1 align="center">PECL</h1>
 
 <p align="center">
-  <strong>A Windows Minecraft launcher and resource management hub</strong>
-</p>
-
-<p align="center">
-  Versions · Java · Mods · Modpacks · Resource Packs · Shader Packs · Data Packs
+  <strong>A lightweight unofficial Minecraft launcher for Windows</strong>
 </p>
 
 <p align="center">
@@ -46,18 +42,15 @@
 
 ## What Is PECL
 
-PECL is a Windows Minecraft launcher, but it is also intended to be a resource management hub. The goal is not only to launch the game, but to make the full day-to-day workflow clearer and more reliable:
+PECL is a Minecraft launcher for Windows, and also a resource management workspace. It is not only about launching the game. The goal is to bring several common player workflows into one clearer and more stable desktop experience:
 
 `Choose an instance -> search resources -> install -> launch the game -> manage and adjust`
 
-If you regularly move between Minecraft versions, Java runtimes, mods, modpacks, resource packs, shader packs, and data packs, PECL is designed to make that workflow feel less fragmented and more predictable.
+If you often switch between Minecraft versions, Java, mods, modpacks, resource packs, shader packs, and data packs, PECL aims to make that work feel less fragmented and more predictable.
 
-## What PECL Tries To Solve
+## Why Build Another Minecraft Launcher
 
-- Bring work that is usually spread across websites, folders, launch options, and external tools into one desktop entry point
-- Make the relationship between versions, instances, Java, and installed resources easier to understand
-- Improve high-frequency actions such as downloading, installing, switching, and checking current state
-- Make it easier to understand what instance, Java runtime, and resources are currently in use when something goes wrong
+I know there are already many Minecraft launchers out there. If I had to explain why I still wanted to make one, part of it is filling in the gaps I used to imagine for myself, but even more than that, it simply comes from genuine interest.
 
 ## Core Capabilities
 
@@ -66,16 +59,16 @@ If you regularly move between Minecraft versions, Java runtimes, mods, modpacks,
 - Forge, Fabric, and OptiFine workflow support
 - Browsing, downloading, and managing mods, modpacks, resource packs, shader packs, and data packs
 - Resource isolation, task progress sync, installation feedback, and update delivery flow
-- A growing foundation for community browsing and future community-facing features
+- A growing foundation for community content browsing and future expansion
 
 ## Product Direction
 
-PECL is closer to a Minecraft launch and resource workspace than a launcher that only starts a specific version. The current areas of ongoing refinement are:
+PECL is closer to a Minecraft launch and resource management workspace than a launcher that only starts a single version. The areas currently being refined are:
 
-- more stable installation and update flows
+- a more stable installation and update experience
 - clearer boundaries between instances and resources
 - smoother browsing and download workflows
-- more controllable Java management and selection behavior
+- more controllable Java management and selection logic
 
 ## Get PECL
 
@@ -86,14 +79,19 @@ PECL is closer to a Minecraft launch and resource workspace than a launcher that
 ## Project Notes
 
 - Current primary platform: Windows
-- This public repository is mainly used for release distribution, project presentation, and feedback collection
-- The private development source repository is not mirrored here
+- This public repository is mainly used for release distribution, update notes, and feedback collection
 
 ## Feedback
 
-If you run into issues while using PECL, please open an Issue and include:
+If you run into issues while using PECL, feel free to open an Issue. It helps to include:
 
 - your PECL version
 - your Windows version
 - the steps you were taking
 - screenshots, logs, or error messages when available
+
+## A Few Words
+
+Special thanks to [Ennuyeux](https://github.com/Ennuyeux233) for the countless rounds of testing and debugging.
+
+Our groups: [Discord](https://discord.gg/acDP9usr) and QQ Group `1078585042`
