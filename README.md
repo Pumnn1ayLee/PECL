@@ -5,11 +5,11 @@
 <h1 align="center">PECL</h1>
 
 <p align="center">
-  <strong>Windows 桌面 Minecraft 启动器与资源管理中心</strong>
+  <strong>Windows 一个轻量、干净的新第三方Minecraft启动器</strong>
 </p>
 
 <p align="center">
-  聚焦版本安装、Java 管理、资源下载、实例隔离与持续打磨的启动体验。
+  聚焦版本安装、Java 管理、资源下载、实例隔离、社区功能与持续打磨的启动体验。
 </p>
 
 <p align="center">
