@@ -5,11 +5,11 @@
 <h1 align="center">PECL</h1>
 
 <p align="center">
-  <strong>A clean Windows Minecraft launcher under active refinement</strong>
+  <strong>A Windows Minecraft launcher and resource management hub</strong>
 </p>
 
 <p align="center">
-  Versions · Java · Mods · Modpacks · Resource Management
+  Versions · Java · Mods · Modpacks · Resource Packs · Shader Packs · Data Packs
 </p>
 
 <p align="center">
@@ -44,47 +44,50 @@
 
 ---
 
-## Overview
+## What Is PECL
 
-PECL is a Windows Minecraft launcher and resource management hub. The current focus is not just launching the game, but making this core workflow smoother and more reliable:
+PECL is a Windows Minecraft launcher, but it is also intended to be a resource management hub. The goal is not only to launch the game, but to make the full day-to-day workflow clearer and more reliable:
 
-`Choose an instance -> search resources -> install -> launch the game -> recover from issues`
+`Choose an instance -> search resources -> install -> launch the game -> manage and adjust`
 
-This public repository is mainly used to:
+If you regularly move between Minecraft versions, Java runtimes, mods, modpacks, resource packs, shader packs, and data packs, PECL is designed to make that workflow feel less fragmented and more predictable.
 
-- publish installers and updater manifests
-- present project information and public release notes
-- collect public feedback and issue reports
+## What PECL Tries To Solve
 
-The private development source repository is not mirrored here.
+- Bring work that is usually spread across websites, folders, launch options, and external tools into one desktop entry point
+- Make the relationship between versions, instances, Java, and installed resources easier to understand
+- Improve high-frequency actions such as downloading, installing, switching, and checking current state
+- Make it easier to understand what instance, Java runtime, and resources are currently in use when something goes wrong
 
-## Core Features
+## Core Capabilities
 
 - Minecraft version installation and instance management
-- Java detection, managed runtime downloads, auto selection, manual selection, and hide/restore support for external Java
+- Java detection, managed runtime downloads, auto selection, manual selection, and hide or restore support for external Java
 - Forge, Fabric, and OptiFine workflow support
 - Browsing, downloading, and managing mods, modpacks, resource packs, shader packs, and data packs
-- Resource isolation, task progress sync, installation feedback, and updater delivery flow
-- Community browsing and continuously evolving community-facing features
+- Resource isolation, task progress sync, installation feedback, and update delivery flow
+- A growing foundation for community browsing and future community-facing features
 
-## Current Release And Links
+## Product Direction
 
-- Latest public release: [v0.3.0](https://github.com/Pumnn1ayLee/PECL/releases/tag/v0.3.0)
-- Recommended installer: `PECL_0.3.0_x64-setup.exe`
-- Releases page: [GitHub Releases](https://github.com/Pumnn1ayLee/PECL/releases)
+PECL is closer to a Minecraft launch and resource workspace than a launcher that only starts a specific version. The current areas of ongoing refinement are:
 
-## 0.3.0 Highlights
+- more stable installation and update flows
+- clearer boundaries between instances and resources
+- smoother browsing and download workflows
+- more controllable Java management and selection behavior
 
-- Fixed the Mod management flicker when switching into the Resources page from other pages
-- Added continuous load-more support for modpack, resource pack, and shader pack browsers
-- The Mod browser now performs a default search automatically when opened
-- Improved Java management by separating PECL-managed and external Java, supporting hide and restore for external Java, and preventing hidden Java from participating in automatic fallback
+## Get PECL
 
-## Download And Install
+- Download the latest public build: [GitHub Releases](https://github.com/Pumnn1ayLee/PECL/releases/latest)
+- Browse all public releases: [All Releases](https://github.com/Pumnn1ayLee/PECL/releases)
+- Report bugs or share suggestions: [Issues](https://github.com/Pumnn1ayLee/PECL/issues)
 
-- Download the latest Windows installer from the [Releases](https://github.com/Pumnn1ayLee/PECL/releases) page
-- The `x64` installer is recommended
-- If Windows SmartScreen appears, verify the source before continuing
+## Project Notes
+
+- Current primary platform: Windows
+- This public repository is mainly used for release distribution, project presentation, and feedback collection
+- The private development source repository is not mirrored here
 
 ## Feedback
 
